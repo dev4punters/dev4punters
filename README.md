@@ -2,7 +2,7 @@
 # WELCOME TO DEV4PUNTERS! 👋  
                 
 ## 🚀 About this Organization
-We delovelop software that solves and simply problem faced by Hustlers.
+We delovelop softwares that solves and simply problems faced by Hustlers.
 
 # Mobile Apps📱 & Games🎮
 
